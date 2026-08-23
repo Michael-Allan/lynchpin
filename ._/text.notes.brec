@@ -1,5 +1,16 @@
 Ethics notes
 
+    + reach coherence
+        + retitle tabular column *explanantic truth* more precisely as *truth mode*,
+          or whatever term is accurate
+        + make this part of the argument optional, if only implicitly, by deferring it
+            : join
+        repair+ this point
+            : see @ ~/work/ethics/default/._/text.notes.brec
+        ?+ better warrant (more encouraging) to set aside the others, is there?
+            : join @ `^*\+ argue for my preferred safehold explanantia`
+        + clear notepad references
+        + clear notepad
     + begin (this philosophic frame) with (or involving) a search for the creator’s reason
         : re `creator’s reason` see `^*• God had reason to make the safehold$`s
           @ ~/work/safehold/aetiology/text.brec
@@ -147,14 +158,31 @@ Ethics notes
                                                                  null, brute fact
 
 
-                    - none of the remaining explanantia (in themselves) would rule out morality
-                        - that depends on their assigned theoretic ground
-                        - ultimately only assigning to those explanantia a theoretic ground either
-                          in natural necessity or nothing at all (brute fact) would rule out morality
-                            ?+ then replace the *potential moral bearing* column with
-                              a *moral implication* column whose values are either
-                              ‘moral law’, ‘cosmic moral law’, or ‘amoral universe’?
-                        - so here is further encourgement
+                    + make this part of the argument optional, if only implicitly, by deferring it
+                        ∵ regardless it cannot be dealt with up front
+                            ∵ dealing with it involves features of practical logic|reason
+                              that have yet to be introduced
+                        - proceeding to elaborate the ethic meantime on a promise
+                          of later disarming any skeptics
+                        + change in the explanantial table (title and payload column) the term
+                          *moral bearing* to the more precise *[implied|evidenced] moral source*
+                          or *[”] source of morals*
+                    1+ eliminate as implausible the necessarily true safehold explanantia
+                      of *physical necessity* and *brute fact*
+                        + promise a second way of doing this
+                            : re `second way` viz.  `^*2. eliminate.+the theoretic grounds` :
+                              ∵ these explanantia, in being necessarily true, are theoretic grounds
+                        ⇒ this leaves a table of contingent explanantia alone
+                            + there add a column of *ground*, which is a theoretic ground
+                    2+ eliminate *for practical purposes* the theoretic grounds of *none, brute fact*
+                       and *natural necessity* from the table of contingent explanantia
+                        : re `for practical purposes` see notepad:2026-8-22a,b,c,d : where theoretic
+                          logic|reason necessarily is indecisive, practical logic|reason may
+                          *for practical purposes* decide a theoretic matter
+                        ⇒ this leaves only those explanantia that involve|imply a source of morals
+                            - skeptics are here disarmed
+                        + redeem the promise of a second way of doing 1
+                            : re `the promise.+` see `^*\+ promise a second way of doing this$`
                 | forget it
                     | the others and their ilk must, at present, hang over and threaten
                       all moral endeavours
