@@ -76,12 +76,46 @@ Ethics notes
         - rather argue on the practical|methodological ground of my preferred explanantia
           being the best|only on which to premise a normative ethic
             ?+ better warrant (more encouraging) to set aside the others, is there?
+                | absent the possibility of theoretic warrant, fall back to practical
+                    + make this part of the argument optional, if only implicitly, by deferring it
+                        ∵ it is weak \ if not outright specious, to be frank with myself
+                        ∵ regardless it cannot be dealt with up front
+                            ∵ dealing with it involves features of practical logic|reason
+                              that have yet to be introduced
+                        - proceeding to elaborate the ethic meantime on a promise
+                          of later disarming any skeptics
+                        + change in the explanantial table (title and payload column) the term
+                          *moral bearing* to the more precise *[implied|evidenced] moral source*
+                          or *[”] source of morals*
+                    1+ eliminate as implausible the safehold explanantia
+                      of *physical necessity* and *brute fact*
+                        : re `physical necessity` see `${same}` @ `^*yes$` @
+                          `^*- tabulating.+its.+direct.+moral implication$`
+                        : re `brute fact` see `^*no.+${same}`s @
+                          `^*- tabulating.+its.+direct.+moral implication$`
+                        + promise a second way of doing this
+                            : re `second way` viz.  `^*2. eliminate.+the theoretic grounds` :
+                              ∵ these explanantia, in being necessarily true, are theoretic grounds
+                        ⇒ this leaves a table of contingent explanantia alone
+                            + there add a column of *ground*, which is a theoretic ground
+                    2+ eliminate *for practical purposes* the theoretic grounds of *none, brute fact*
+                       and *natural necessity* from the table of contingent explanantia
+                        : re `for practical purposes` see notepad:2026-8-22a,b,c,d : where theoretic
+                          logic|reason necessarily is indecisive, practical logic|reason may
+                          *for practical purposes* decide a theoretic matter
+                            ?+ where did Kant argue for practical warrant in such cases?
+                            ?+ does anyone else argue for it?
+                        : re `none, brute fact`  see `none /.natural` @ `^*- further tabulating`
+                        : re `natural necessity` see `none /.natural` @ `^*- further tabulating`
+                        ⇒ this leaves only those explanantia that involve|imply a source of morals
+                            - skeptics are here disarmed
+                        + redeem the promise of a second way of doing 1
+                            : re `the promise.+` see `^*\+ promise a second way of doing this$`
                 | defuse the problem of exclusionary warrant immediately, up front, by shining enough
                   light on the crucial features of the situation to make obvious the warrant
                     : cf. `^*∵ exposing these crucial features suffices to defuse problem` @
                       ~/work/safehold/aetiology/._/text.notes.brec : same technique for a similar problem
                     - tabulating for each explanans its [direct] moral implication
-                      and/or its [potential] moral bearing
 
 
                             table, Moral implications [direct] of known, possible explanantia
@@ -113,8 +147,8 @@ Ethics notes
 
                         - brute fact and physical necessity are fairly implausible
                         - here is some encouragement
-                    - tabulating for each explanans its [direct] moral implication
-                      and/or its [potential] moral bearing
+                    - further tabulating for each explanans its [potential] moral bearing
+
 
                             table, Moral bearing [potential] of known, possible explanantia
                                            for the cosmic safehold
@@ -156,31 +190,6 @@ Ethics notes
                                                                  null, brute fact
 
 
-                    + make this part of the argument optional, if only implicitly, by deferring it
-                        ∵ regardless it cannot be dealt with up front
-                            ∵ dealing with it involves features of practical logic|reason
-                              that have yet to be introduced
-                        - proceeding to elaborate the ethic meantime on a promise
-                          of later disarming any skeptics
-                        + change in the explanantial table (title and payload column) the term
-                          *moral bearing* to the more precise *[implied|evidenced] moral source*
-                          or *[”] source of morals*
-                    1+ eliminate as implausible the necessarily true safehold explanantia
-                      of *physical necessity* and *brute fact*
-                        + promise a second way of doing this
-                            : re `second way` viz.  `^*2. eliminate.+the theoretic grounds` :
-                              ∵ these explanantia, in being necessarily true, are theoretic grounds
-                        ⇒ this leaves a table of contingent explanantia alone
-                            + there add a column of *ground*, which is a theoretic ground
-                    2+ eliminate *for practical purposes* the theoretic grounds of *none, brute fact*
-                       and *natural necessity* from the table of contingent explanantia
-                        : re `for practical purposes` see notepad:2026-8-22a,b,c,d : where theoretic
-                          logic|reason necessarily is indecisive, practical logic|reason may
-                          *for practical purposes* decide a theoretic matter
-                        ⇒ this leaves only those explanantia that involve|imply a source of morals
-                            - skeptics are here disarmed
-                        + redeem the promise of a second way of doing 1
-                            : re `the promise.+` see `^*\+ promise a second way of doing this$`
                 | forget it
                     | the others and their ilk must, at present, hang over and threaten
                       all moral endeavours
@@ -195,11 +204,6 @@ Ethics notes
                     | all (at present) rest on physics ‘yet unknown’
                 | weighing the possible courses of moral action
                     | productive|substantial vs. mere waiting (for physics)
-                | absent the (present) possibility of theoretic warrant, fall back to practical
-                    ?+ where did Kant argue for practical warrant in such cases?
-                    ?+ does anyone else argue for it?
-                    ∵ one has neither practical warrant for the others (all being amoral),
-                      nor (at present) theoretic (all resting on physics ‘yet unknown’)
     moral law, conditions
         a) a principle defining the criteria of right action
             : re `principle defining the criteria of right action`
