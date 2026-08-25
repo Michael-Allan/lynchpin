@@ -1,5 +1,38 @@
 Ethics notes
 
+    - a survey of possible explanantia yields (among others) only two of moral bearing:
+        : see @ ../text.brec
+        ! then ‘evidences’ in being attested by two and belied by the remainder is too strong a word
+            | directly follow ‘evidences’ (after the echo sentence) with a qualification to weaken it
+                : re `echo sentence` viz. `^*- the phenomenon.+evidences a source of morals$` @
+                  ../text.brec
+                ‘ while a survey… yields only two that imply|indicate a moral source,
+                  among others that do not, [nevertheless] {here my qualification}
+                    + change in the explanantial table (title and payload column) the term
+                      *moral bearing* to the more precise *[implied|evidenced] moral source*
+                      or *[”] source of morals*
+                        : see @ `^*\+ argue for my preferred.+explanantia`
+                | qualifying thus
+                    + admit the evidence is indecisive
+                    + assert that, when faced with indecisive evidence, we tend not to skepticize
+                      (to withold decision), but rather to form convictions
+                        : viz. `admit and allow for other convictions ∵ they are inevitable` @
+                          `^*\+ argue for my preferred.+explanantia`
+                    + offer to explain my own conviction ∵ the reasons for it are convincing
+                        : re `offer to (.+) conviction (.+)` viz. `${1} ${2}$` @
+                          `^*\+ argue for my preferred.+explanantia`
+                    + defer that explanation pending introduction of its referents
+                        - my conviction arises (in part) from implications of the design explanantia
+                          that, on reflection, give theoretic support to them
+                            ∵ they reveal in those explanantia a [theoretic] coherence and symmettry
+                              which are not immediately obvious
+                        ∴ the explanation must be deferred pending elaboration of the implications
+            | replace ‘evidences’ with a term that better summarizes my convincement|conviction
+                | ‘evinces|presages (if not evidences)’
+            | weaken ‘evidences’ by re-modalization
+                | ‘the first evidences a *possible* source of morals, the second represents its conduit
+                  into society, and the two together yield under analysis the conditions of moral law
+                  that *would* constitute the ground of *an* ethic’
     + reach coherence
         ?+ better warrant (more encouraging) to set aside the others, is there?
             : join @ `^*\+ argue for my preferred safehold explanantia`
