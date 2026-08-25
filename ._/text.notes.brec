@@ -39,10 +39,10 @@ Ethics notes
         + clear notepad references
         + clear notepad
     + begin (this philosophic frame) with (or involving) a search for the creator’s reason
-        : re `creator’s reason` see `^*• God had reason to make the safehold$`s
-          @ ~/work/safehold/aetiology/text.brec
-        : re `creator’s reason` see `^*• cosmocrafters have reason to.+cosmocraft lineally`s
-          @ ~/work/safehold/aetiology/text.brec
+        : re `creator’s reason` see `^*• God had reason to make the safehold$`s @
+          ~/work/safehold/aetiology/text.brec
+        : re `creator’s reason` see `^*• cosmocrafters have reason to.+cosmocraft lineally`s @
+          ~/work/safehold/aetiology/text.brec
         but no+
             ∵ the normative ethic is the proper place for seeking the creator’s reason
                 : re `^*∵ (.+)$` see `^*∴ ${same}$` @
