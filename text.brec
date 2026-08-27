@@ -18,8 +18,42 @@
             : re `the first (.+ a source of morals)`
               see `^*- the phenomenon of the cosmic safehold ${same}$`
     - the phenomenon of the cosmic safehold evidences a source of morals
-        - because what explains the presence of that safehold?
-        - a survey of possible explanantia yields (among others) only two of moral bearing:
+        - [because] what explains the presence of that safehold?
+        - an aetiologic survey that aims for exhaustive coverage by typological division
+          turns up the following results
+
+
+                table, Known, possible explanantia for the cosmic safehold
+                    ┈
+
+                  explain-  truth mode    name of explanans
+                   able    of explanans
+
+                    yes
+                            necessary
+                                          physical necessity
+
+                                          supernatural design
+
+                        ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+                            contingent
+                                          natural cosmogonal selection
+
+                                          multiverse ensemble
+
+                                          mundane design
+
+                    ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+                    no
+                                          null, brute fact
+
+
+
+            : re `an aetiologic survey.+by typological division`
+              see ~/work/safehold/aetiology/ : *Aetiology of the cosmic safehold.*
+        - two artificial explanantia, three natural, and one null explanans comprise the results
+        - both artificial explanantia involve what tradition has long given [us]
+          to be a source of morals, namely a universal or cosmic creator
 
             • supernatural design by God
                 : re `^*• (.+ design) .+` see `^^${same}$` @ ~/work/safehold/aetiology/text.brec
