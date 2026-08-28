@@ -1,16 +1,16 @@
 Ethics notes
 
-    - both artificial explanantia involve what tradition has long given [us]
-      to be a source of morals, namely a universal or cosmic creator
+    - none of the natural explanantia carries any moral implication at all
         : see @ ../text.brec
-        ! then ‘evidences’ in being attested by two and belied by the remainder is too strong a word
+        ! then ‘evidences’ in being attested only by the artificial
+          and belied by the natural is too strong a word
             | directly follow ‘evidences’ (after the echo sentence) with a qualification to weaken it
                 : re `echo sentence` viz. `^*- the phenomenon.+evidences a source of morals$` @
                   ../text.brec
                 ‘ while a survey… yields only two that imply|indicate a moral source,
                   among others that do not, [nevertheless] {here my qualification}
                 | qualifying thus
-                    + admit the evidence is indecisive
+                    - admitting the evidence is indecisive
                     ? why was I getting stuck here?
                         | promising to redeem my claim of evidence with a fast backing|warrant
                           that I gave no assurance of
@@ -38,20 +38,16 @@ Ethics notes
                                           urging not only points to the existence of a personal creator
                                           (hidden behind the scene) but could even stand in for such
                                           a creator (creative by nature and rational by logic|reason)
-                                + come at this by noting that the other (non-null) explanans
-                                  (all natural, so labelled by an added column) all depend on physics
-                                  that is ‘yet unknown’, which would seem to leave us no choice
-                                  but to wait on physical developments and meantime skepticize
-                                    : re `skepticize` see `^*\+ assert that.+we tend not to skepticize`
-                                      @ ~/work/ethics/._/text.notes.brec
                             | gave no assurance, that is, because I have none to give
-                    + assert that, when faced with indecisive evidence, we tend not to skepticize
+                    - asserting that, when faced with indecisive evidence, we tend not to skepticize
                       (to withold decision), but rather to form convictions
-                        : viz. `admit and allow for other convictions ∵ they are inevitable` @
-                          `^*\+ argue for my preferred.+explanantia`
+                        | form convictions based on practical criteria that align with our interests
+                            ∵ ultimately (in the issue) it is these interests that are at stake
                     + offer to explain my own conviction ∵ the reasons for it are convincing
                         : re `offer to (.+) conviction (.+)` viz. `${1} ${2}$` @
                           `^*\+ argue for my preferred.+explanantia`
+                        : re `the reasons for it are convincing` N.B. `^*- I have two reasons` @
+                          `assurance.+I neglected to give` @ `^*. why was I getting stuck here\?$`
                     + defer that explanation pending introduction of its referents
                         - my conviction arises (in part) from implications of the design explanantia
                           that, on reflection, give theoretic support to them
