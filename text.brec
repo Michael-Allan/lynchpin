@@ -51,8 +51,9 @@
 
             : re `an aetiologic survey.+by typological division`
               see ~/work/safehold/aetiology/ : *Aetiology of the cosmic safehold.*
-        - these comprise two artificial explanantia, three natural, and one null explanans
-        - a moral source is implied by each of the artificial explanantia
+        - the known, possible explanantia include some artificial, some natural, and a null explanans
+        - only the artificial imply a moral source
+        - there are two of them
 
                 • supernatural design by God
                     : re `^*• (.+ design) .+` see `^^${same}$` @ ~/work/safehold/aetiology/text.brec
