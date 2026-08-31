@@ -10,7 +10,8 @@ Ethics notes
                 ‘ while a survey… yields only two that imply|indicate a moral source,
                   among others that do not, [nevertheless] {here my qualification}
                 | qualifying thus
-                    - admitting the evidence is indecisive
+                    • admitting that the evidence appears to be indecisive
+                      pending developments in physics
                     ? why was I getting stuck here?
                         | promising to redeem my claim of evidence with a fast backing|warrant
                           that I gave no assurance of
@@ -46,11 +47,23 @@ Ethics notes
                                           itself stabilizes the ground in present for us
                                             : see notepad:2026-8-23b
                             | gave no assurance, that is, because I have none to give
-                    - asserting that, when faced with indecisive evidence, we tend not to skepticize
-                      (to withold decision), but rather to form convictions based on other criteria
-                        | generally|usually these are practical criteria that align with our interests
-                            ∵ [generally|usually|{ultimately (in the issue)}]
-                              it is these interests that are at stake
+                    + assert, however, that:
+                        | no design explanans *in itself* need wait on such developments, but already
+                          each is determined enough to be elaborated|unfolded and put to work
+                            : see notepad:2026-8-31a
+                            ∵ in doing so I uncover a reason to believe in a design explanans
+                              that I need for the next step
+                                : re `need for the next step`
+                                  see `^*\+ explain then the reason alone, not also the conviction$`
+                      \ | where the stakes are high, we tend not to skepticize (withold decision)
+                      \   and wait on theoretic justification, but rather to go ahead
+                      \   and form convictions based on other criteria
+                      \     | generally|usually these are practical criteria
+                      \       that align with our interests
+                      \         ∵ [generally|usually|{ultimately (in the issue)}]
+                      \           it is these interests that are at stake
+                      \\    !! a conviction based on interest does nothing for my purpose of grounding
+                      \         : see notepad:2026-8-31e
                     + offer to explain my own conviction ∵ the reasons for it are convincing
                         : re `offer to (.+) conviction (.+)` viz. `${1} ${2}$` @
                           `^*\+ argue for my preferred.+explanantia`
@@ -67,17 +80,24 @@ Ethics notes
                                                 : see `they reveal.+theoretic.+coherence and symmettry` @
                                                   `^*- .+implications.+that.+give theoretic support`s
                                         - employing this one to argue for or decide theory would be valid
+                                        + explain then the reason alone, not also the conviction
+                                            ∵ a conviction based on interest does nothing
+                                              for my purpose of grounding
+                                                : see notepad:2026-8-31e
                                     - the others are operative from a theoretic standpoint only
                                       as causal reasons that enforce (force and reinforce) belief
                                         - employing these to argue for or decide theory would be invalid
-                                        - nevertheless some may be employed to argue for (the fact of)
-                                          a default status for the design explanantia
-                                            : see notepad:2026-8-30a,c,d
-                                            : see notepad:2026-8-31a,b
-                                            + for each, put it to work there
-                                            + conclude that ‘evidences’ is valid with the qualification
-                                              of ‘by default’ and/or ‘at present’ and/or ‘in effect’
-                                        - and some may be proper to the applied ethic,
+                                      \ - nevertheless some may be employed to argue for (the fact of)
+                                      \   a default status for the design explanantia
+                                      \     : see notepad:2026-8-30a,c,d
+                                      \     : see notepad:2026-8-31a,b
+                                      \     + for each, put it to work there
+                                      \     + conclude that ‘evidences’ is valid with the qualification
+                                      \       of ‘by default’ and/or ‘at present’ and/or ‘in effect’
+                                      \\    !! a default status would do nothing
+                                      \       for my purpose of grounding
+                                      \         : see notepad:2026-8-31c
+                                        - nevertheless some may be proper to the applied ethic,
                                           which concerns enforcement
                                             + for each, put it to work there
                                         + for the remainder, merely note them as curiosities
@@ -114,6 +134,7 @@ Ethics notes
                           that, on reflection, give theoretic support to them
                             ∵ they reveal in those explanantia a [theoretic] coherence and symmettry
                               which are not immediately obvious
+                                : see notepad:2026-8-30a,d
                         ∴ the explanation must be deferred pending elaboration of the implications
             | replace ‘evidences’ with a term that better summarizes my convincement|conviction
                 | ‘evinces|presages (if not evidences)’
