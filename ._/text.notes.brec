@@ -10,8 +10,10 @@ Ethics notes
                 ‘ while a survey… yields only two that imply|indicate a moral source,
                   among others that do not, [nevertheless] {here my qualification}
                 | qualifying thus
-                    • admitting that the evidence appears to be indecisive
-                      pending developments in physics
+                    • admitting that:
+                        | the evidence appears to be indecisive pending future developments in physics
+                        | it appears one has no reasonable choice but to wait,
+                          meantime to skepticize (withold decision)
                     ? why was I getting stuck here?
                         | promising to redeem my claim of evidence with a fast backing|warrant
                           that I gave no assurance of
@@ -71,7 +73,8 @@ Ethics notes
                           `^*\|.+assurance.+I neglected to give` @ `^*. why was I getting stuck here\?$`
                         - these reasons of mine are decisive not only for practice, but also for theory
                             ? how can the latter be reasonable?
-                                : re `reasonable` contra `no ${same} choice but to wait` @ ../text.brec
+                                : re `reasonable` contra `no ${same} choice but to wait` @
+                                  `^*• admitting that:$`
                                 | only some of these reasons can reasonably (validly) be employed
                                   in arguing for or deciding theory
                                     - one alone is operative from a theoretic standpoint
