@@ -74,5 +74,5 @@
                   see `^*• any actual path is the cull of a.+yet unknown.+${2}al ${1}` @
                   ~/work/safehold/aetiology/text.brec
                 : re `rests on a.+(constraint) of nature that has yet to be discovered`s
-                  see `^*• the conditions.+are bound.+by a.+yet unknown.+${1} of cosmogony`s @
+                  see `^*• the conditions.+are bound.+by a.+yet unknown.+${1} of.+cosmogony`s @
                   ~/work/safehold/aetiology/text.brec
