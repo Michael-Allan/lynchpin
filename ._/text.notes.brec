@@ -1,7 +1,5 @@
 Ethics notes
 
-        unwind+ the complex of notes below
-            - expanding en passent the text content
     - only the artificial imply a moral source
         : see @ ../text.brec
         ! then ‘evidences’ in being attested by the artificial
@@ -17,8 +15,8 @@ Ethics notes
                         | it appears one has no reasonable choice but to wait,
                           meantime to skepticize (withold decision)
                     ? why was I getting stuck here?
-                        | promising to redeem my claim of evidence with a fast backing|warrant
-                          that I gave no assurance of
+                        | promising to redeem my claim of evidence of a moral source
+                          with a fast backing|warrant that I gave no assurance of
                             - e.g. here:
                                 - [because] what explains the presence of that safehold?
                                     : see @ ~/work/ethics/text.brec
@@ -58,7 +56,7 @@ Ethics notes
                             ∵ in doing so I uncover a reason to believe in a design explanans
                               that I need for the next step
                                 : re `need for the next step`
-                                  see `^*\+ explain then the reason alone, not also the conviction$`
+                                  see `^*\+ explain then the reason alone, not also my own judgement`p
                       \ | where the stakes are high, we tend not to skepticize (withold decision)
                       \   and wait on theoretic justification, but rather to go ahead
                       \   and form convictions based on other criteria
@@ -68,8 +66,9 @@ Ethics notes
                       \           it is these interests that are at stake
                       \\    !! a conviction based on interest does nothing for my purpose of grounding
                       \         : see notepad:2026-8-31e
-                    + offer to explain my own conviction ∵ the reasons for it are convincing
-                        : re `offer to (.+) conviction (.+)` viz. `${1} ${2}$` @
+                    + offer to explain my own judgement|belief|conviction
+                      ∵ the reasons for it are convincing
+                        : re `(explain my own).+(∵ .+)`s viz. `${1} ${2}` @
                           `^*\+ argue for my preferred.+explanantia`
                         : re `the reasons for it are convincing` N.B. `^*- I have two reasons` @
                           `^*\|.+assurance.+I neglected to give` @ `^*. why was I getting stuck here\?$`
@@ -81,13 +80,14 @@ Ethics notes
                                   in arguing for or deciding theory
                                     - one alone is operative from a theoretic standpoint
                                       as a reason to believe
-                                            • revealed theoretic coherence and symmettry
-                                                : see `they reveal.+theoretic.+coherence and symmettry` @
-                                                  `^*- .+implications.+that.+give theoretic support`s
+                                            • revealed theoretic coherence and symmetry
+                                                : viz. `^^coherence$`i @ `^*∵ they reveal in the.+theory`
+                                                : viz.  `^^symmetry$`i @ `^*∵ they reveal in the.+theory`
                                         - employing this one to argue for or decide theory would be valid
-                                        + explain then the reason alone, not also the conviction
-                                            ∵ a conviction based on interest does nothing
-                                              for my purpose of grounding
+                                        + explain then the reason alone, not also
+                                          my own judgement|belief|conviction
+                                            ∵ a judgement|belief|conviction based on interest
+                                              does nothing for my purpose of grounding
                                                 : see notepad:2026-8-31e
                                     - the others are operative from a theoretic standpoint only
                                       as causal reasons that enforce (force and reinforce) belief
@@ -111,8 +111,9 @@ Ethics notes
                                     : re `(decide) (theor)y.+from a (practical) standpoint alone`
                                       e.g. `${3} logic.+may.+for ${3} purposes.+${1} a ${2}etic matter`s
                                     ∴ it is reasonable in the present context ∵ it is a practical context
-                                    - yet a conviction so formed *sticks in one’s mind* and will tend to
-                                      carry over even to a theoretic standpoint that one later shifts to
+                                    - yet a judgement|belief|conviction so formed *sticks in one’s mind*
+                                      and will tend to carry over even to a theoretic standpoint
+                                      that one later shifts to
                                         ? could acquiescence to *that* still be reasonable?
                                             - probably not
                                             - any claim of *theoretic* support from the decided result
@@ -135,13 +136,54 @@ Ethics notes
                                                   `two reasons.+to favour.+the design explanantia`s @
                                                   `^*\|.+assurance.+I neglected to give`
                     + defer that explanation pending introduction of its referents
-                        - my conviction arises (in part) from implications of the design explanantia
-                          that, on reflection, give theoretic support to them
-                            ∵ they reveal in those explanantia a [theoretic] coherence and symmettry
-                              which are not immediately obvious
+                        - my judgement|belief|conviction arises (in part) from implications of
+                          the design explanantia that, on reflection, speak in favour of them
+                            ∵ they reveal in the underlying theory of those explanantia [a] coherence
+                               and symmetry, not immediately obvious, that speak in favour of them
+                                : see notepad:2026-8-23b
                                 : see notepad:2026-8-30a
+                                coherence
+                                    ∵ they reveal a [surprising] larger coincidence
+                                      [that is] not immediately obvious
+                                        - among:
+                                            i) [practical] reason
+                                            ii) {[our] nature} | {natural selection}
+                                            iii) [cosmic] safehold
+                                        - in that:
+                                            - all relate [us] to the same end|object
+                                            - each does so optimally
+                                        - through optimal:
+                                            i) aiming|guiding [of us] toward it
+                                            ii) urging|forcing [of us] toward it
+                                            iii) facilitation [of [our] progress to] it
+                                    ∵ this [surprising] [larger] [triple] coincidence is accounted for
+                                      [elegantly] by each design explanans and thereby given
+                                      [a] [theoretic] coherence
+                                    ∵ accounting for and giving [theoretic] coherence to a [surprising]
+                                      [larger] coincidence speaks in favour of the truth of an explanans
+                                symmetry
+                                    ∵ ceteris paribus, a symmetry speaks in favour of an explanans
+                                        ∵ the [revealed] [triply] coincident end|object entails in
+                                          practice what the design explanantia hypothesize in theory
+                                            ∵ it entails as a means (future) safehold design
+                                        ∵ the [revealed] presence of this larger symmetry beautifies
+                                          the design explanantia
+                                            ∵ the design explanantia enable this larger symmetry
+                                                ∵ it depends on them, they themselves (or one itself)
+                                                  inhering in (figuring as [a] [necessary] part of) it
+                                            ∵ symmetry has beauty
+                                        ∵ ceteris paribus, beauty speaks in favour of an explanans
+                                        ?!! what sort/degree of favour survives a condition so big?
+                                    | this symmetry implies that, if the end|object is [at all] possible,
+                                      then likely others have attained it in the past,
+                                      which is what the explanans of mundane design hypothesizes
+                                        ∴ if that explanans is possible, then probably it is true
+                                            ?!! what sort/degree of favour survives a condition so big?
+                                            ?+ or does the [triply] coincident end|object reduce the size
+                                              of the ‘if’ condition, making the [prior] possibility
+                                              of the end|object more probable [in the first place]?
                         ∴ the explanation must be deferred pending elaboration of the implications
-            | replace ‘evidences’ with a term that better summarizes my convincement|conviction
+            | replace ‘evidences’ with a term that better summarizes my convincement
                 | ‘evinces|presages (if not evidences)’
             | weaken ‘evidences’ by re-modalization
                 | ‘the first evidences a *possible* source of morals, the second represents its conduit
@@ -219,7 +261,7 @@ Ethics notes
         - rather argue on the practical|methodological ground of my preferred explanantia
           being the best|only on which to premise a normative ethic
             ?+ better warrant (more encouraging) to set aside the others, is there?
-                | admit and allow for other convictions ∵ they are inevitable,
+                | admit and allow for other judgements|beliefs|convictions ∵ they are inevitable,
                   but explain my own ∵ the reasons for it are convincing
                     : see notepad:2026-8-23a,b
                 | absent the possibility of theoretic warrant, fall back to practical
