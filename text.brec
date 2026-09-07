@@ -13,13 +13,13 @@
         : re `ethic` see doi:10.1093/OED/2656971922 : *Oxford English dictionary*, ‘ethic (n.),
           sense b,’ June 2026. : ‘A system or set of moral principles’.
         - the first evidences a source of morals, the second represents its conduit into society,
-          and the two together yield under analysis the conditions of moral law
+          and the two in conjunction yield under analysis the conditions of moral law
           whose fulfillment would constitute the theoretic ground of an ethic
             : re `the first (.+ a source of morals)`
               see `^*- the phenomenon of the cosmic safehold ${same}$`
             : re `the second (represent)s its (conduit into society)`
               see `^*- we ${1} that source’s ${2} through our concept of moral law$`
-            : re `(the two).+(yield) under (analysis) (the conditions.+of an ethic)$`s
+            : re `(the two in conjunction).+(yield) under (analysis) (the conditions.+of an ethic)$`s
               see `^*- ${3} of ${1}.+${2}s ${4}$`p
         - the evidence shows moreover that these conditions are met
           and {therewith} an ethic of moral law is in effect
