@@ -55,7 +55,7 @@ Ethics notes
         a) a principle defining the criteria of right action
             : re `principle defining the criteria of right action`
               see `^*: re .moral law.+${same}`s @ ../text.brec
-            : join @ `^^moral law, conditions that hold$`i @ ../default/._/text.notes.brec
+            : join @ `^^moral law, conditions that hold$`i @ ~/work/ethics/default/._/text.notes.brec
         •) its being absolute
             : re `absolute` see `^*: re .moral law.+a.+${same} principle`s @ ../text.brec
             , sub-conditions that suffice
@@ -64,9 +64,11 @@ Ethics notes
                       that also is sufficient
                     b) its command (addressed demand) by our creator
                         : cf. `^*: re .moral law.+a divine ordinance`s @ ../text.brec
-                        : join @ `^^moral law, conditions that hold$`i @ ../normative/._/text.notes.brec
+                        : join @ `^^moral law, conditions that hold$`i @
+                          ~/work/ethics/normative/._/text.notes.brec
                     c) the creator’s backing of it by force
-                        : join @ `^^moral law, conditions that hold$`i @ ../applied/._/text.notes.brec
+                        : join @ `^^moral law, conditions that hold$`i @
+                          ~/work/ethics/applied/._/text.notes.brec
                 - these suffice to remove any qualification of the principle and thereby make it absolute
                     / here the particular principle that meets condition (a) is a principle of logic
                       carrying the implicit qualification, ‘if one wishes to act logically’
